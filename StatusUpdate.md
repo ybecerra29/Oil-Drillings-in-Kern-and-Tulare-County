@@ -1,9 +1,9 @@
-# Project Title: Environmental Justice in Kern County: The Effects of Oil Drilling Operations on Communities
+# Environmental Justice in Kern County: The Effects of Oil Drilling Operations on Communities
 **Group Members**: Nick Stewart-Boch, Melody Ng, Dinah Dominguez, Yesenia Becerra
 
 [Group Github Repo](https://github.com/ybecerra29/up221groupproject)
 
-# Proposal
+# PROPOSAL
 
 ## Problem Summary
 We are examining how oil drilling in Tulare and Kern Counties impacts the surrounding physical environment and the health of those in close proximity to drilling sites. Tulare and Kern Counties constitute large portions of the Central Valley, one of the key centers for agricultural production in the US. It is also the site of extensive oil drilling in the state, often on oil fields that overlap with agricultural land. This raises questions we hope to answer about how oil drilling in this environment affects water and soil quality, and by extension, the produce that is eaten throughout the country. Furthermore, we hope to also examine how this affects nearby residents and farmworkers who might work in close proximity to these drilling sites. 
@@ -28,7 +28,7 @@ We hope to better understand the relationship between oil drilling, environmenta
 
 
 
-# Roles: 
+# ROLES
 Yesenia (occupation, health outcomes, income): I’ll be working on pulling income, and occupation from the census tract data and seeing how that correlated with  
 
 Dinah (demographic data): I'll be working on income data and census tract data.
@@ -37,7 +37,7 @@ Melody (Ag, Oil Well, and Health Data Wrangler): I've been exploring the CalEnvi
 
 Nick (oil, water, land use) I have been mapping oil data in interactive maps by well status. I have been trying to merge oil well data with social explorer census data but it is hard to tell if it is working given computer issues. I did merge oil data with CalEnviroScreen but the dataset became too big for Jupyter. Ideally, if there is a way of making it work, it would be great to provide spatial statistics of oil wells with health outcomes and environmental issues like poor quality.
 
-# Status Update: 
+# PRE-MIDTERM STATUS UPDATE
 Yesenia: I am personally having trouble working through data errors while coding, and seeing how data is not directly demonstrating or translating into the maps that I was hoping to showcase for our project. Since most of us in the group are having similar issues, we’ve spent some time troubleshooting and are still working through those issues on our own. I think we’d benefit from having a standing call for check in and troubleshooting together. 
 
 Dinah: I am personally having trouble working on coding on my own. Office hours are helpful but I get discouraged when I can’t troubleshoot issues on my own. Meeting weekly with the team to get updates and check in is helpful. 
@@ -46,7 +46,7 @@ Melody: I think we’re all feeling a bit disconnected, and it’s personally be
 
 Nick: I think I am getting the hang of coding a bit more for subsetting but am similarly feeling like our parts are a bit disconnected and am getting pretty frustrated with being unable to move to the mapping process because of computer issues, so am feeling somewhat stuck currently. 
 
-# Data Update
+# DATA UPDATE
 1. Oil wells data has been subsetted to include just idle, active, and new wells in the county. This still is around 70,000 values so there is a lot of point data there. 
 2. CalEnviroScreen seems to have all the health/environmental data we need for this project, but we are still working on making it mergeable with our other data.
 3. Currently, discussing which other demographic data to incorporate in our project (and potentially agricultural). *https://data.census.gov/all?q=kern+county+income*
@@ -54,7 +54,7 @@ Nick: I think I am getting the hang of coding a bit more for subsetting but am s
 
 Our group is looking at the effects of oil drilling operations like refineries and oil drilling on the health of communities and sensitive receptors located near to these operations. We identified some areas of particular interests like occupational health hazards of workers like farm workers and racial, socio-economic vulnerabilities that highlight risk for environmental injustice in communities in Kern County.
 
-# Concerns
+# CONCERNS
 **Major:** 
 1. Oil Wells data is huge and diffic
 2. Familiarity with CalEnviroScreen and Census data that can help generate helpful maps that address our major research questions. Troubleshooting coding errors with data that is available. 
