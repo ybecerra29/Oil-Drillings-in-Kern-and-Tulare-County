@@ -56,8 +56,8 @@ Our group is looking at the effects of oil drilling operations like refineries a
 
 # CONCERNS
 **Major:** 
-1. Oil Wells data is huge and diffic
-2. Familiarity with CalEnviroScreen and Census data that can help generate helpful maps that address our major research questions. Troubleshooting coding errors with data that is available. 
+1. Oil Wells data is huge and difficult to map interactively (so many data points even when subsetted for the essential ones).
+2. Lack of familiarity with CalEnviroScreen and Census data.
 
 **Minor:** Honing in on our research questions based on the data that we have worked through in our jupyter notebooks. 
 
